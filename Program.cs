@@ -152,7 +152,9 @@
   "!@#$%^&*()`~",
   "\u0001\u0002\u0003\u0004\u0005\u0006\u0007\b\u000e\u000f\u0010\u0011\u0012\u0013\u0014\u0015\u0016\u0017\u0018\u0019\u001a\u001b\u001c\u001d\u001e\u001f",
   "",
-  @"\t\u000b\f              ​ 
+  @"\t\u000b\f 
+             ​
+
 
 ", 
   "­؀؁؂؃؄؅؜۝܏᠎​‌‍‎‏‪‫‬‭‮⁠⁡⁢⁣⁤⁦⁧⁨⁩⁪⁫⁬⁭⁮⁯﻿￹￺￻𑂽𛲠𛲡𛲢𛲣𝅳𝅴𝅵𝅶𝅷𝅸𝅹𝅺󠀁󠀠󠀡󠀢󠀣󠀤󠀥󠀦󠀧󠀨󠀩󠀪󠀫󠀬󠀭󠀮󠀯󠀰󠀱󠀲󠀳󠀴󠀵󠀶󠀷󠀸󠀹󠀺󠀻󠀼󠀽󠀾󠀿󠁀󠁁󠁂󠁃󠁄󠁅󠁆󠁇󠁈󠁉󠁊󠁋󠁌󠁍󠁎󠁏󠁐󠁑󠁒󠁓󠁔󠁕󠁖󠁗󠁘󠁙󠁚󠁛󠁜󠁝󠁞󠁟󠁠󠁡󠁢󠁣󠁤󠁥󠁦󠁧󠁨󠁩󠁪󠁫󠁬󠁭󠁮󠁯󠁰󠁱󠁲󠁳󠁴󠁵󠁶󠁷󠁸󠁹󠁺󠁻󠁼󠁽󠁾󠁿",
@@ -235,7 +237,9 @@
   "␡",
   "‪‪test‪",
   "‫test‫",
-  @" test ", 
+  @"
+test
+", 
   "test⁠test‫",
   "⁦test⁧",
   "Ṱ̺̺̕o͞ ̷i̲̬͇̪͙n̝̗͕v̟̜̘̦͟o̶̙̰̠kè͚̮̺̪̹̱̤ ̖t̝͕̳̣̻̪͞h̼͓̲̦̳̘̲e͇̣̰̦̬͎ ̢̼̻̱̘h͚͎͙̜̣̲ͅi̦̲̣̰̤v̻͍e̺̭̳̪̰-m̢iͅn̖̺̞̲̯̰d̵̼̟͙̩̼̘̳ ̞̥̱̳̭r̛̗̘e͙p͠r̼̞̻̭̗e̺̠̣͟s̘͇̳͍̝͉e͉̥̯̞̲͚̬͜ǹ̬͎͎̟̖͇̤t͍̬̤͓̼̭͘ͅi̪̱n͠g̴͉ ͏͉ͅc̬̟h͡a̫̻̯͘o̫̟̖͍̙̝͉s̗̦̲.̨̹͈̣",
@@ -539,34 +543,7 @@
   "COM2",
   "COM3",
   "COM4",
-  "DCC SEND STARTKEYLOGGER 0 0 0",
-  "Scunthorpe General Hospital",
-  "Penistone Community Church",
-  "Lightwater Country Park",
-  "Jimmy Clitheroe",
-  "Horniman Museum",
-  "shitake mushrooms",
-  "RomansInSussex.co.uk",
-  "http://www.cum.qc.ca/",
-  "Craig Cockburn, Software Specialist",
-  "Linda Callahan",
-  "Dr. Herman I. Libshitz",
-  "magna cum laude",
-  "Super Bowl XXX",
-  "medieval erection of parapets",
-  "evaluate",
-  "mocha",
-  "expression",
-  "Arsenal canal",
-  "classic",
-  "Tyson Gay",
-  "Dick Van Dyke",
-  "basement",
-  "If you're reading this, you've been in a coma for almost 20 years now. We're trying a new technique. We don't know where this message will end up in your dream, but we hope it works. Please wake up, we miss you.",
-  "Roses are \u001b[0;31mred\u001b[0m, violets are \u001b[0;34mblue. Hope you enjoy terminal hue",
-  "But now...\u001b[20Cfor my greatest trick...\u001b[8m",
-  "The quic\b\b\b\b\b\bk brown fo\u0007\u0007\u0007\u0007\u0007\u0007\u0007\u0007\u0007\u0007\u0007x... [Beeeep]",
-"Powerلُلُصّبُلُلصّبُررً ॣ ॣh ॣ ॣ冗"
+  "DCC SEND STARTKEYLOGGER 0 0 0"
 			};
 
 		static void Main(string[] args)
